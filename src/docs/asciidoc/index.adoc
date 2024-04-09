@@ -4,3 +4,5 @@
 include::C:\Users\inzent\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringRestDocsTest\src\docs\asciidoc\rest-docs-test.adoc[]
 
 include::C:\Users\inzent\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringRestDocsTest\src\docs\asciidoc\rest-docs-test2.adoc[]
+
+include::C:\Users\inzent\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringRestDocsTest\src\docs\asciidoc\restDocsTest-get.adoc[]
