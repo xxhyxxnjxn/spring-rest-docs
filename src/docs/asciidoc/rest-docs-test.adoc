@@ -1,0 +1,16 @@
+== Rest Docs Test Controller
+=== REQUEST
+
+include::C:\Users\inzent\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringRestDocsTest\build\generated-snippets\rest-docs-test\rest-docs-test\http-request.adoc[]
+
+=== RESPONSE
+
+include::C:\Users\inzent\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringRestDocsTest\build\generated-snippets\rest-docs-test\rest-docs-test\http-response.adoc[]
+
+=== REQUEST-BODY
+
+include::C:\Users\inzent\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringRestDocsTest\build\generated-snippets\rest-docs-test\rest-docs-test\request-body.adoc[]
+
+=== RESPONSE-BODY
+
+include::C:\Users\inzent\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringRestDocsTest\build\generated-snippets\rest-docs-test\rest-docs-test\response-body.adoc[]
